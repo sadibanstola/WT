@@ -1,0 +1,47 @@
+*{margin: O;padding: 0;}
+ body{
+font-size: 24px
+ }
+.wrapper{
+margin: Opx auto;
+width: 1024px;
+}
+.main{
+width: 1024px;
+float: left;
+}
+img{
+width: 30%;
+height: 100%;
+margin-left: 500px;
+/*margin: 5px Opx;
+padding: 5px Opx;
+border-top: 2px solid #555; 
+border-bottom: 2px solid #555;*/
+}
+p.logo{
+    width: 1004px;
+    text-align: center;
+    background-color: #555;
+    color: #fff;
+    float: left;
+    padding: 10px;
+  font-size: 50px;
+}
+    p.heading{
+   float: left;
+   color: #555;
+   width: 1024px;
+   font-size: 200;
+   font-weight:bolder;
+    }
+    p.para{
+        width: 1024px;
+        float: left;
+        font-style: italic;
+    }
+        p.para span{
+        color: #555;
+        }
+
+
